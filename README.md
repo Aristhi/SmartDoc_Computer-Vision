@@ -39,7 +39,7 @@ SmartDoc_Computer-Vision/
 ---
 
 **Installation & Setup**
-1. Prerequisites
+**1. Prerequisites**
 Ensure you have Python 3.9+ installed on your system.
 
 **2. Clone Repository**
@@ -74,12 +74,12 @@ iv. Select your preferred filter (Original, Grayscale, CLAHE, or Adaptive Binari
 
 v. Add the processed page to your session and export as a single or multi-page PDF.
 
-**Running Unit Tests**
+**Instructions for testing**
 
 Execute the automated test suite to verify pipeline transformations and edge cases:
 pytest
 
-**Built With:**
+**Technologies Used:**
 
 **OpenCV** - Core Computer Vision image processing pipeline.
 **Streamlit** - Desktop application framework and interactive session handling.
