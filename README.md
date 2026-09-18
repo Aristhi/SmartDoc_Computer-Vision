@@ -85,3 +85,29 @@ pytest
 **Streamlit** - Desktop application framework and interactive session handling.
 **NumPy** - Vectorized matrix operations and coordinate mathematical transformations.
 **Pillow (PIL)** - Image file format handling and PDF byte stream rendering.
+
+---
+
+## Application Screenshots
+
+<p align="center">
+  <img src="Images/Screenshot%202026-09-18%20205330.png" width="400" alt="UI Dashboard"/>
+  <img src="Images/Screenshot%202026-09-18%20205731.png" width="400" alt="Document Upload"/>
+</p>
+
+<p align="center">
+  <img src="Images/Screenshot%202026-09-18%20205825.png" width="400" alt="Boundary Detection"/>
+  <img src="Images/Screenshot%202026-09-18%20205837.png" width="400" alt="Joystick Tuning"/>
+</p>
+
+<p align="center">
+  <img src="Images/Screenshot%202026-09-18%20205848.png" width="400" alt="Perspective Correction"/>
+  <img src="Images/Screenshot%202026-09-18%20205853.png" width="400" alt="Image Filtering"/>
+</p>
+
+<p align="center">
+  <img src="Images/Screenshot%202026-09-18%20205859.png" width="400" alt="Multi-Page Queue"/>
+  <img src="Images/Screenshot%202026-09-18%20205904.png" width="400" alt="PDF Export"/>
+</p>
+
+---
