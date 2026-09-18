@@ -36,6 +36,8 @@ SmartDoc_Computer-Vision/
 ├── statement.md               # Project scope and problem statement
 └── README.md                  # Documentation
 
+---
+
 **Installation & Setup**
 1. Prerequisites
 Ensure you have Python 3.9+ installed on your system.
